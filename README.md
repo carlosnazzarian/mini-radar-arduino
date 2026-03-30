@@ -70,7 +70,8 @@ This interface was developed using Pygame and communicates with the Arduino thro
 ## Media
 
 ### Hardware Setup
-![Hardware Setup](images/radar-hardware.jpg)
+![Hardware Setup](images/radar-hardware-1.jpg)
+![Hardware Setup](images/radar-hardware-2.jpg)
 
 ### Circuit Diagram
 ![Circuit Diagram](images/circuit.png)
