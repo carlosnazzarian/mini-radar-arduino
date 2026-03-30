@@ -80,7 +80,7 @@ This interface was developed using Pygame and communicates with the Arduino thro
 ![Radar UI](images/radar-ui.png)
 
 ### Demo Video
-[Watch the demo video](radar_demo.mp4)
+[Watch the demo video]([radar_demo.mp4](https://youtu.be/t6CY_emrd0A))
 
 ## Developer Notes
 
