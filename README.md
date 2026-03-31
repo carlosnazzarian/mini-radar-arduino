@@ -44,8 +44,6 @@ To use the Arduino radar system, assemble the following components:
 
 > Make sure all grounds are connected together.
 
----
-
 ### 2. Upload the Arduino Code
 
 1. Open the Arduino IDE
@@ -97,7 +95,7 @@ Press A to activate AUTO mode
 Press M to activate MANUAL mode
 Click the AUTO or MANUAL buttons in the Python interface
 
-### AUTO Mode
+#### AUTO Mode
 
 In AUTO mode:
 
@@ -105,7 +103,7 @@ The servo automatically sweeps between its minimum and maximum angles
 The ultrasonic sensor continuously measures distance
 The radar interface updates in real time with the current scan
 
-### MANUAL Mode
+#### MANUAL Mode
 
 In MANUAL mode:
 
